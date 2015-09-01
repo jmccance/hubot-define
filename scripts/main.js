@@ -8,7 +8,7 @@
 //   WORDNIK_API_KEY
 //
 // Commands:
-//   hubot define <word> - look up a definition for <word>
+//   hubot define <word> - look up a definition for <word> (Powered by the Wordnik API)
 //
 // Author:
 //   jmccance

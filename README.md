@@ -1,6 +1,6 @@
 # hubot-define
 
-A Dictionary bot.
+A definition lookup bot powered by the [Wordnik API](http://developer.wordnik.com/).
 
 ## Testing
 

@@ -5,10 +5,10 @@
 //   "swagger-client": "^2.1.3"
 //
 // Configuration:
-//   WORDNIK_API_KEY
+//   HUBOT_DEFINE_API_KEY - Your Wordnik API key
 //
 // Commands:
-//   hubot define <word> - look up a definition for <word>
+//   hubot define <word> - look up a definition for <word> (Powered by the Wordnik API)
 //
 // Author:
 //   jmccance

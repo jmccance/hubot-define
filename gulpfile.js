@@ -2,12 +2,6 @@ var del = require('del');
 var gulp = require('gulp');
 var babel = require('gulp-babel');
 var eslint = require('gulp-eslint');
-var rename = require('gulp-regex-rename');
-var gutil = require('gutil');
-var _ = require('lodash');
-var path = require('path');
-var source = require('vinyl-source-stream');
-var watchify = require('watchify');
 
 var paths = {
   source: 'src/**/*.js',
